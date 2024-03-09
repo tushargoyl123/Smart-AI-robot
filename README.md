@@ -1,11 +1,15 @@
-# ESP32-CAM Simple AI Robot #
+**Project Name:** Object Detecting AI Car
 
-## Demonstration
+**Overview:**
+The Object Detecting AI Car project focuses on developing a prototype vehicle equipped with object detection capabilities, controlled via a mobile phone interface. This project serves as a foundation for future automotive innovations, showcasing the integration of artificial intelligence (AI) technology for enhanced safety and functionality. The Arduino development board is utilized as the primary control unit for the car's operations.
 
+**Features:**
+Object Detection: The car is equipped with sensors and cameras capable of detecting objects in its vicinity, allowing it to navigate safely and avoid collisions.
+Mobile Phone Control: Users can control the car's movements and functionalities using a mobile phone application, providing convenience and flexibility in operation.
+Prototyping for Future Cars: This project serves as a prototype for integrating advanced technologies, such as AI and object detection, into future automotive designs, enhancing safety and efficiency on the road.
 
-## Dependencies
-Download https://github.com/Links2004/arduinoWebSockets as zip file and add this library to your Arduino Libraries by Sketch/Include Library/Add Zip...<br/>
-
-
-## LICENSE
-The part contains my code is released under BSD 2-Clause License. Regarding other libraries used in this project, please follow the respective Licenses.
+**Components Used:**
+1. Arduino Development Board: Serves as the central control unit for the car's operations and interfaces with sensors and actuators.
+2. Sensors and Cameras: Used for object detection and navigation, providing real-time feedback to the Arduino board.
+3. Motor Controllers: Enables the car to move and maneuver based on user inputs and sensor data.
+4. Mobile Phone Application: Provides a user-friendly interface for controlling the car remotely and accessing its features.
